@@ -1,0 +1,27 @@
+.cardItem{
+    width: 270px;
+    height: 360px;
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+
+}
+.cardName{
+    width: 100%;
+    height: 50px;
+    margin-top: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;
+    font-size: 18px;
+    border-radius:0 0 15px 15px;
+    color: black;
+
+}
+
+.cardItem img{
+    width: 100%;
+    height: 310px;
+
+}
